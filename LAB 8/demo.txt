@@ -1,0 +1,2 @@
+This is dummy file 
+For the program->lines,words and characters
