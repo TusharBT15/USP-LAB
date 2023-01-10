@@ -1,0 +1,3 @@
+Make a shell script file that upon
+execution will give your workfile the file permission -rwx--x--x, then
+-r-x-w---- and lastly -rwxrwxrw-.
