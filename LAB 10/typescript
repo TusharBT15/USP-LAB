@@ -1,0 +1,314 @@
+Script started on 2023-01-17 11:45:41+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ f[K[K]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ [K]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ^C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ^C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ^C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ^C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ^C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ^C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ^C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ^C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ hello
+
+Command 'hello' not found, but can be installed with:
+
+sudo snap install hello              # version 2.10, or
+sudo apt  install hello              # version 2.10-1ubuntu1
+sudo apt  install hello-traditional  # version 2.10-3build1
+
+See 'snap info hello' for additional versions.
+
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ,a[K[Kman ls
+[?1049h[22;0;0t[?1h=LS(1)                                                                                 User Commands                                                                                 LS(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of [1m-cftuvSUX[0m nor [1m--sort[0m is specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[0m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[0m, print the author of each file[m
+[m
+       [1m-b[0m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[0m=[4mSIZE[24m[m
+              with [1m-l[0m, scale sizes by SIZE when printing them; e.g., '--block-size=M'; see SIZE format below[m
+[m
+       [1m-B[0m, [1m--ignore-backups[0m[m
+              do not list implied entries ending with ~[m
+[m
+       [1m-c[0m     with [1m-lt[0m: sort by, and show, ctime (time of last modification of file status information); with [1m-l[0m: show ctime and sort by name; otherwise: sort by ctime, newest first[m
+[m
+       [1m-C[0m     list entries by columns[m
+[m
+       [1m--color[0m[=[4mWHEN[24m][m
+              colorize the output; WHEN can be 'always' (default if omitted), 'auto', or 'never'; more info below[m
+[m
+       [1m-d[0m, [1m--directory[0m[m
+              list directories themselves, not their contents[m
+[m
+       [1m-D[0m, [1m--dired[0m[m
+              generate output designed for Emacs' dired mode[m
+[m
+       [1m-f[0m     do not sort, enable [1m-aU[0m, disable [1m-ls[0m [1m--color[0m[m
+[m
+       [1m-F[0m, [1m--classify[0m[m
+              append indicator (one of */=>@|) to entries[m
+[m
+       [1m--file-type[0m[m
+              likewise, except do not append '*'[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t
+[1]+  Stopped                 man ls
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ man ls[1Phelloman ls[1Phelloman ls[K[Khello
+No manual entry for hello
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ man wo=ho
+No manual entry for wo=ho
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ man who
+[?1049h[22;0;0t[?1h=WHO(1)                                                                                User Commands                                                                                WHO(1)[m
+[m
+[1mNAME[0m[m
+       who - show who is logged on[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mwho[0m [[4mOPTION[24m]... [ [4mFILE[24m [4m|[24m [4mARG1[24m [4mARG2[24m ][m
+[m
+[1mDESCRIPTION[0m[m
+       Print information about users who are currently logged in.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              same as [1m-b[0m [1m-d[0m [1m--login[0m [1m-p[0m [1m-r[0m [1m-t[0m [1m-T[0m [1m-u[0m[m
+[m
+       [1m-b[0m, [1m--boot[0m[m
+              time of last system boot[m
+[m
+       [1m-d[0m, [1m--dead[0m[m
+              print dead processes[m
+[m
+       [1m-H[0m, [1m--heading[0m[m
+              print line of column headings[m
+[m
+       [1m--ips[0m  print ips instead of hostnames. with [1m--lookup[0m, canonicalizes based on stored IP, if available, rather than stored hostname[m
+[m
+       [1m-l[0m, [1m--login[0m[m
+              print system login processes[m
+[m
+       [1m--lookup[0m[m
+              attempt to canonicalize hostnames via DNS[m
+[m
+       [1m-m[0m     only hostname and user associated with stdin[m
+[m
+       [1m-p[0m, [1m--process[0m[m
+              print active processes spawned by init[m
+[m
+       [1m-q[0m, [1m--count[0m[m
+              all login names and number of users logged on[m
+[m
+       [1m-r[0m, [1m--runlevel[0m[m
+              print current runlevel[m
+[m
+       [1m-s[0m, [1m--short[0m[m
+              print only name, line, and time (default)[m
+[m
+       [1m-t[0m, [1m--time[0m[m
+              print last system clock change[m
+[m
+       [1m-T[0m, [1m-w[0m, [1m--mesg[0m[m
+              add user's message status as +, - or ?[m
+[m
+       [1m-u[0m, [1m--users[0m[m
+[7m Manual page who(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t
+[2]+  Stopped                 man who
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ man who -a
+[?1049h[22;0;0t[?1h=WHO(1)                                                                                User Commands                                                                                WHO(1)[m
+[m
+[1mNAME[0m[m
+       who - show who is logged on[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mwho[0m [[4mOPTION[24m]... [ [4mFILE[24m [4m|[24m [4mARG1[24m [4mARG2[24m ][m
+[m
+[1mDESCRIPTION[0m[m
+       Print information about users who are currently logged in.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              same as [1m-b[0m [1m-d[0m [1m--login[0m [1m-p[0m [1m-r[0m [1m-t[0m [1m-T[0m [1m-u[0m[m
+[m
+       [1m-b[0m, [1m--boot[0m[m
+              time of last system boot[m
+[m
+       [1m-d[0m, [1m--dead[0m[m
+              print dead processes[m
+[m
+       [1m-H[0m, [1m--heading[0m[m
+              print line of column headings[m
+[m
+       [1m--ips[0m  print ips instead of hostnames. with [1m--lookup[0m, canonicalizes based on stored IP, if available, rather than stored hostname[m
+[m
+       [1m-l[0m, [1m--login[0m[m
+              print system login processes[m
+[m
+       [1m--lookup[0m[m
+              attempt to canonicalize hostnames via DNS[m
+[m
+       [1m-m[0m     only hostname and user associated with stdin[m
+[m
+       [1m-p[0m, [1m--process[0m[m
+              print active processes spawned by init[m
+[m
+       [1m-q[0m, [1m--count[0m[m
+              all login names and number of users logged on[m
+[m
+       [1m-r[0m, [1m--runlevel[0m[m
+              print current runlevel[m
+[m
+       [1m-s[0m, [1m--short[0m[m
+              print only name, line, and time (default)[m
+[m
+       [1m-t[0m, [1m--time[0m[m
+              print last system clock change[m
+[m
+       [1m-T[0m, [1m-w[0m, [1m--mesg[0m[m
+              add user's message status as +, - or ?[m
+[m
+       [1m-u[0m, [1m--users[0m[m
+[7m Manual page who(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t
+[3]+  Stopped                 man who -a
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ touch hello.c
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit hello.c 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit hello.c [1Ptouch hello.cgedit hello.c 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit hello.c 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ tpi[K[Kouch emp.lst
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ eg==[K[K[Kge[K[K[Kgedit emp.lst
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ head -n[Kn 4 emm[Kp.lst
+2233|name1|sales1|12/12/52|6000
+2234|name2|sales2|12/1/52|600000
+2235|name3|sales3|12/2/52|60005
+2236|name4|sales4|12/11/52|60000
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ tail -n 3[K5 [K[K3 emp.lst
+2235|name3|sales3|12/2/52|60005
+2236|name4|sales4|12/11/52|60000
+2237|name5|sales5|12/10/52|60007
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ tail -n 3 emp.lsthead -n 4[C[C[C[C[C[C[C[C[4Pgedit[C[C[C[C[C[C[C[Ctouch[C[C[C[C[C[C[C[Cgedit[C[C[C[C[C[C[C[C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cur[Kt -c 6-22 24-32 emp.lst
+cut: 24-32: No such file or directory
+name1|sales1|12/1
+name2|sales2|12/1
+name3|sales3|12/2
+name4|sales4|12/1
+name5|sales5|12/1
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cut -c 6-22 24-32 emp.lst[1@,
+cut: byte/character positions are numbered from 1
+Try 'cut --help' for more information.
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cut -c 6-22, 24-32 emp.lst[1P
+name1|sales1|12/1/52|6000
+name2|sales2|12/152|600000
+name3|sales3|12/252|60005
+name4|sales4|12/1/52|60000
+name5|sales5|12/1/52|60007
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cut -c 6-22,24-32 emp.lst[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pgedit[C[C[C[C[C[C[C[C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit emp.lst[12@cut -c 6-22,24-32[C[C[C[C[C[C[C[C[1P[1P[1P[1P emp.lst[1P[1P emp.lst[1P emp.lst[C[1P emp.lst[1P emp.lst[1P emp.lst2 emp.lst, emp.lst3 emp.lst
+23
+23
+23
+23
+23
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ $head -n 5 emp.lst | tee shortlist[C[1P
+2233|name1|sales1|12/12/52|6000
+2234|name2|sales2|12/1/52|600000
+2235|name3|sales3|12/2/52|60005
+2236|name4|sales4|12/11/52|60000
+2237|name5|sales5|12/10/52|60007
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ ls
+[0m[01;32ma.out[0m  emp.lst  hello.c  shortlist  typescript
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cat shortlist 
+2233|name1|sales1|12/12/52|6000
+2234|name2|sales2|12/1/52|600000
+2235|name3|sales3|12/2/52|60005
+2236|name4|sales4|12/11/52|60000
+2237|name5|sales5|12/10/52|60007
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cat shortlist ls[Khead -n 5 emp.lst | tee shortlist
+2233|name1|sales1|12/12/52|6000
+2234|name2|sales2|12/1/52|600000
+2235|name3|sales3|12/2/52|60005
+2236|name4|sales4|12/11/52|60000
+2237|name5|sales5|12/10/52|60007
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ touch cutlist1
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit cutlist1 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit cutlist1 [1Ptouch cutlist1[K2
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ touch cutlist2gedit cutlist1 [K[K2
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ paste -d "|" cutlist1 cutlist2'[K
+tushar|student|cse|17/01/23
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ sort -t "|" -k 1 emp.lst 
+2233|name1|sales1|12/12/52|6000
+2234|name2|sales2|12/1/52|600000
+2235|name3|sales3|12/2/52|60005
+2236|name4|sales4|12/11/52|60000
+2237|name5|sales5|12/10/52|60007
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ sort -t "|" -k 1 emp.lst paste -d "|" cutlist1 cutlist2[5Psort -t "|" -k 1 emp.lst [Kgedit emp.lst 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit emp.lst [11@sort -t "|" -k 1[C[C[C[C[C[C[C[C[C
+2233|tushar|sales1|12/12/52|6000
+2234|vinay|sales2|12/1/52|600000
+2235|varun|sales3|12/2/52|60005
+2236|aditya|sales4|12/11/52|60000
+2237|vignesh|sales5|12/10/52|60007
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ sort -t "|" -k 1 emp.lst [1P[1@2
+2236|aditya|sales4|12/11/52|60000
+2233|tushar|sales1|12/12/52|6000
+2235|varun|sales3|12/2/52|60005
+2237|vignesh|sales5|12/10/52|60007
+2234|vinay|sales2|12/1/52|600000
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ sort -t "|" -k 2 emp.lst [C[1@-[1@r[1@ 
+2234|vinay|sales2|12/1/52|600000
+2237|vignesh|sales5|12/10/52|60007
+2235|varun|sales3|12/2/52|60005
+2233|tushar|sales1|12/12/52|6000
+2236|aditya|sales4|12/11/52|60000
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ sort -t "|" -r -k 2 emp.lst [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K-k 3,3 ,-k 2,2 emp.lst 
+sort: cannot read: ,-k: No such file or directory
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ sort -t "|" -k 3,3 ,-k 2,2 emp.lst [C[1P[1@ 
+sort: cannot read: ,-k: No such file or directory
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ sort -t "|" -k 3,3 ,-k 2,2 emp.lst [1P[1@ [1P[1P[1@ 
+2233|tushar|sales1|12/12/52|6000
+2234|vinay|sales2|12/1/52|600000
+2235|varun|sales3|12/2/52|60005
+2236|aditya|sales4|12/11/52|60000
+2237|vignesh|sales5|12/10/52|60007
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit emp.lst 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit emp.lst 
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ gedit emp.lst [20@sort -t "|" -k 3,3 -k 2,2[C[C[C[C[C[C[C[C[C[1@,[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pr -k [C[C[C[C[C[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@4
+2237|vignesh|sales5|12/10/06|60007
+2234|vinay|sales2|12/1/03|600000
+2236|aditya|sales4|12/11/05|60000
+2235|varun|sales3|12/2/04|60005
+2233|tushar|sales1|2/12/02|6000
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ sort -t "|" -k 4 emp.lst [11Pgedit[C[C[C[C[C[C[C[C[C[20@sort -t "|" -k 3,3 -k 2,2[C[C[C[C[C[C[C[C[C[20Pgedit[C[C[C[C[C[C[C[C[C
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cut -d "|}[K" -f 3 emp.lst | s[K[Ksort |unq[Kiq -d[Ku
+ceo
+manager
+marketing
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cut -d "|" -f 3 emp.lst |sort |uniq -u[1P[1P[1P[1P[1P[C[1P
+sales
+manager
+marketing
+ceo
+sales
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab10[01;32mbmsce@bmsce-Precision-T1700[00m:[01;34m~/Desktop/tushar/lab10[00m$ cut -d "|" -f 3 emp.lst |uniq -u[6@sort |[C[C[C[C[C[C[C[Kd
+sales
+]0;bmsce@bmsce-Precision-T1700: ~/Desktop/tushar/lab
